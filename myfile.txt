@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 something is here
 will this work we shall see
+something iss here
+ok wait hold the phone
+>>>>>>> mybranch
 i will never understand computer science haha
 wait jk its adding up
+this is the end, my friends
